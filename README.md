@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kajmeter
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, C++, SQL
 
 <!---
 kajmeter/kajmeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
