@@ -3,7 +3,7 @@
   ![](https://komarev.com/ghpvc/?username=kajmeter&color=green)
   <h4>An IT:computer: worker with self taught / incomplete academic:books: programming background.<br>
 <br>
-I'm currently interested in bringing computer vision and photogrammetry to Java using low cost algorithms
+I'm currently interested in bringing computer vision and photogrammetry to Java using low cost algorithms.
   <br>
 I also maintain my own Assetto Corsa :blue_car::red_car: game servers, have a look :wink: http://actd.pl/
   <br><br>
