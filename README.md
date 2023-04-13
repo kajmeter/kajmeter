@@ -1,4 +1,4 @@
-<h3>Hi! I'm kajmeter. <h4>An IT worker with self taught / incomplete academic programming background.<br>
+<h3>Hi! I'm Kajetan. <h4>An IT worker with self taught / incomplete academic programming background.<br>
 <br>
 I'm currently interested in bringing computer vision and photogrammetry to Java using lightweight models.
   <br>
