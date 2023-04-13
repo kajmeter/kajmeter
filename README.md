@@ -1,4 +1,7 @@
-<h3>Hi! I'm Kajetan :smiley: <h4>An IT:computer: worker with self taught / incomplete academic:books: programming background.<br>
+<h3>Hi! I'm Kajetan :smiley:
+  
+  ![](https://komarev.com/ghpvc/?username=kajmeter&color=green)
+  <h4>An IT:computer: worker with self taught / incomplete academic:books: programming background.<br>
 <br>
 I'm currently interested in bringing computer vision and photogrammetry to Java using lightweight models.
   <br>
